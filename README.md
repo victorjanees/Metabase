@@ -41,6 +41,17 @@ In Metabase, an answer to a question can be visualized in a number of ways:
 * Funnel
 * Map
 
+## Companies using Metabase
+261 companies reportedly use Metabase in their tech stacks, where few popular compamies are:
+* CRED
+* Bitpanda.
+* CircleCI.
+* N26.
+* Ruangguru.
+* Yousign.
+* Groww.
+* kevin.
+
 
 ## Reference
 * [Overview](https://www.metabase.com/docs/latest/users-guide/01-what-is-metabase.html)
