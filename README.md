@@ -45,3 +45,4 @@ In Metabase, an answer to a question can be visualized in a number of ways:
 ## Reference
 * [Overview](https://www.metabase.com/docs/latest/users-guide/01-what-is-metabase.html)
 * [Setup](https://www.metabase.com/docs/latest/operations-guide/running-the-metabase-jar-file.html)
+* [Youtube](https://youtu.be/4bNp906oOhs)
