@@ -13,6 +13,9 @@ Your questions can be saved for later, making it easy to come back to them, or y
 
 The process of setting up the Metabase requires least minimum time. The details and codes for setup and run the Metabase JAR is given in the Reference section under setup link.
 
+## Language
+Metabase uses SQL(Structured Query Language), Which is a commonly used languages in other Databases like MySql, Sqlite3, etc.
+
 ## Reference
 * [Overview](https://www.metabase.com/docs/latest/users-guide/01-what-is-metabase.html)
 * [Setup](https://www.metabase.com/docs/latest/operations-guide/running-the-metabase-jar-file.html)
