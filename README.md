@@ -16,6 +16,12 @@ The process of setting up the Metabase requires least minimum time. The details 
 ## Language
 Metabase uses SQL(Structured Query Language), Which is a commonly used languages in other Databases like MySql, Sqlite3, etc.
 
+## Features
+* Allows anyone in the team to ask questions without knowing sql.
+* Uses the SQL editor for more complex queries.
+* Allows to build interactive dashboards with filters and custom click behaviour.
+* Set up alerts to have Metabase, Which notifies the user when the user data changes.
+
 ## Visualizing results
 In Metabase, an answer to a question can be visualized in a number of ways:
 * Numbers
