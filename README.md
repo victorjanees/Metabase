@@ -16,6 +16,26 @@ The process of setting up the Metabase requires least minimum time. The details 
 ## Language
 Metabase uses SQL(Structured Query Language), Which is a commonly used languages in other Databases like MySql, Sqlite3, etc.
 
+## Visualizing results
+In Metabase, an answer to a question can be visualized in a number of ways:
+* Numbers
+* Trend
+* Progress bar
+* Gauge
+* Table
+* Pivot table
+* Line chart
+* Bar chart
+* Combo chart
+* Waterfall chart
+* Row chart
+* Area chart
+* Scatterplot or bubble chart
+* Pie chart
+* Funnel
+* Map
+
+
 ## Reference
 * [Overview](https://www.metabase.com/docs/latest/users-guide/01-what-is-metabase.html)
 * [Setup](https://www.metabase.com/docs/latest/operations-guide/running-the-metabase-jar-file.html)
