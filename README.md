@@ -34,7 +34,7 @@ These are the basic mathematical operators. The user can also use parentheses() 
 AND, OR, NOT, greater than (>), greater than or equal to(>=), lesser than(<), lesser than or equal to(<=), not equal to(!=)
 
 ### Referring other columns
-The user can refer to the columns in the current table and also refer to the table colums in other table via foreign key concept.
+The user can refer to the columns in the current table and also refer to the table columns in other table via foreign key concept.
 
 ### Referring to segments or metrics
 In Metabase, The user can also refer to the segments or metrics which are present in the current working table.
@@ -76,10 +76,10 @@ In Metabase, an answer to a question can be visualized in a number of ways:
 * kevin.
 
 ## Conclusion
-According to my view, Metabase is the modern day great database management tool. It is very user friendly and anyone can ask questions about data to with without any coding knowledge. It comes handy to the large corporate for handlind data over times and also can review the results for the data over time in their relevent form of output view. Apart from large corporated, Startups can also use Metabase which reduces time spending for the review of data analytics. Hence it is a revolutionary tool for any kind of data dealing organisation.
+According to my view, Metabase is the modern day great database management tool. It is very user friendly and anyone can ask questions about data to with without any coding knowledge. It comes handy to the large corporate for handling data over times and also can review the results for the data over time in their relevant form of output view. Apart from large corporates, Startups can also use Metabase which reduces time spending for the review of data analytics. Hence it is a revolutionary tool for any kind of data dealing organisation.
 
 
 ## Reference
 * [Overview](https://www.metabase.com/docs/latest/users-guide/01-what-is-metabase.html)
 * [Setup](https://www.metabase.com/docs/latest/operations-guide/running-the-metabase-jar-file.html)
-* [Youtube](https://youtu.be/4bNp906oOhs)
+* [YouTube](https://youtu.be/4bNp906oOhs)
