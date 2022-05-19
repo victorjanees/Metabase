@@ -14,10 +14,10 @@ User's questions can be saved for later, making it easy to come back to them, or
 The process of setting up the Metabase requires least minimum time. The details and codes for setup and run the Metabase JAR is given in the Reference section under setup link.
 
 ## Language
-Metabase uses SQL(Structured Query Language), Which is a commonly used languages in other Databases like MySql, Sqlite3, etc.
+Metabase uses SQL(Structured Query Language), Which is a commonly used languages in other Databases like MySQL, Sqlite3, etc.
 
 ## Features
-* Allows anyone in the team to ask questions without knowing sql.
+* Allows anyone in the team to ask questions without knowing SQL.
 * Uses the SQL editor for more complex queries.
 * Allows to build interactive dashboards with filters and custom click behaviour.
 * Set up alerts to have Metabase, Which notifies the user when the user data changes.
@@ -28,22 +28,22 @@ The following types are the most used expressions in Metabase.
 
 ###Basic mathematical operators
 Addition(+), Subtraction(-), Multiplication(*), Division(/)
-These are the basic mathematical operators. The user can also use paranthesis() for grouping these operators together.
+These are the basic mathematical operators. The user can also use parentheses() for grouping these operators together.
 
 ### Conditional operators
 AND, OR, NOT, greater than (>), greater than or equal to(>=), lesser than(<), lesser than or equal to(<=), not equal to(!=)
 
-### Refering other columns
+### Referring other columns
 The user can refer to the columns in the current table and also refer to the table colums in other table via foreign key concept.
 
-### Refering to segments or metrics
+### Referring to segments or metrics
 In Metabase, The user can also refer to the segments or metrics which are present in the current working table.
 
 ### Filter expressions and conditions
 This concept is not like other ways where they returns a value. Here the return type should be a boolean either true or false.
 
 ### Filter expressions using dates
-If the user wants to work with the date in the table, The format should be YYYY-MM-DD. Where Y(Year), M(Month), D(Date) should be seperated by dashes(-).
+If the user wants to work with the date in the table, The format should be YYYY-MM-DD. Where Y(Year), M(Month), D(Date) should be separated by dashes(-).
 
 ## Visualizing results
 In Metabase, an answer to a question can be visualized in a number of ways:
@@ -65,7 +65,7 @@ In Metabase, an answer to a question can be visualized in a number of ways:
 * Map
 
 ## Companies using Metabase
-261 companies reportedly use Metabase in their tech stacks, where few popular compamies are:
+261 companies reportedly use Metabase in their tech stacks, where few popular companies are:
 * CRED
 * Bitpanda.
 * CircleCI.
@@ -74,6 +74,9 @@ In Metabase, an answer to a question can be visualized in a number of ways:
 * Yousign.
 * Groww.
 * kevin.
+
+## Conclusion
+According to my view, Metabase is the modern day great database management tool. It is very user friendly and anyone can ask questions about data to with without any coding knowledge. It comes handy to the large corporate for handlind data over times and also can review the results for the data over time in their relevent form of output view. Apart from large corporated, Startups can also use Metabase which reduces time spending for the review of data analytics. Hence it is a revolutionary tool for any kind of data dealing organisation.
 
 
 ## Reference
